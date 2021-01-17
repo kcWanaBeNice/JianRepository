@@ -1,5 +1,6 @@
-print("33333")
+ï»¿print("33333")
 print("young people")
 
 
-¿ªÊ¼ÐÂÒ»²¨
+å¼€å§‹æ–°ä¸€æ³¢
+GG smida
